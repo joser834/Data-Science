@@ -1,0 +1,24 @@
+Data fields
+Here's a brief version of what you'll find in the data description file.
+
+SalePrice - the property's sale price in dollars. This is the target variable that you're trying to predict.
+
+
+OverallQual: Overall material and finish quality, rates the overall material and finish of the house
+
+       10	Very Excellent
+       9	Excellent
+       8	Very Good
+       7	Good
+       6	Above Average
+       5	Average
+       4	Below Average
+       3	Fair
+       2	Poor
+       1	Very Poor
+       
+       
+1stFlrSF: First Floor square feet
+TotRmsAbvGrd: Total rooms above grade (does not include bathrooms)
+YearBuilt: Original construction date
+LotFrontage: Linear feet of street connected to property
