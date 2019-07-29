@@ -5,4 +5,9 @@ date: "7/29/2019"
 output: rmarkdown::github_document
 ---
 
-Hello World!
+# Sample Function
+## Another subtitle
+```{r, cache=TRUE, echo=TRUE}
+sample(1:10, 50, replace = TRUE)
+```
+
